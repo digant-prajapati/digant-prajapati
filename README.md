@@ -18,7 +18,7 @@ Cyber Security Enthusiast | VAPT | Bug Bounty Hunter | VAPT
 
 - 🔭 I’m currently working as Bug Bounty Hunter(Freelancer).
 - 🌱 I’m currently learning  all about IT and Security.
-- 📫 How to reach me: digant487@gmail.com
+- 📫 How to reach me: digant487@gmail.com/ digant.bughunter@gmail.com
 - 😄 Pronouns: He/Him
 
 ### 👨🏻‍💻Area of Expertise:
