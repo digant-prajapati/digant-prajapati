@@ -11,6 +11,7 @@ Here are some ideas to get you started:
 -->
 
 ### I'm Digant Prajapati
+![](https://komarev.com/ghpvc/?username=digant-prajapati&color=orange&style=plastic)
 
 Cyber Security Enthusiast | VAPT | Bug Bounty Hunter | VAPT 
 
