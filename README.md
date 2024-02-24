@@ -51,8 +51,8 @@ Cyber Security Enthusiast | VAPT | Bug Bounty Hunter | VAPT
 - Appreciation by Dell for finding IDOR.
 - Appreciation by Honeywell for PII data leakage.
 - Appreciation by IBM for finding XSS vulnerability.
-- Appreciation by AirCanada, Anatta, Informatica, MijnTuin and more for Finding Vulnerability
-- Got an appreciation letter from University of Erfurt and Thales Group
+- Appreciation by AirCanada, Anatta, Informatica, MijnTuin and more for Finding Vulnerability.
+- Got an appreciation letter from University of Erfurt and Thales Group.
 
 ## Social Networks
 
